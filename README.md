@@ -8,6 +8,8 @@ Built using VueJS, Vuex (state management) and Buefy (styling) for Front End and
 
 Here is the [link](https://vue-blog-site.firebaseapp.com/) of the working version of app.
 
+Click [here](https://github.com/alephist/vue-blog-app-server) to view Back End code.
+
 Use demo accounts to explore app:
 
 | Email              | Password |
